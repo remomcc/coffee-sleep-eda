@@ -8,7 +8,7 @@ An exploratory data analysis (EDA) of coffee consumption, lifestyle characterist
 
 This project investigates associations among demographics, lifestyle behaviors, coffee consumption, and sleep characteristics using the [Global Coffee Health Dataset](https://www.kaggle.com/datasets/uom190346a/global-coffee-health-dataset) from Kaggle. Another aspect of this analysis is to identify and quanitify the deterministic rules underlying engineered features when working with a synthetic dataset.
 
-**Companion Streamlit app:** [Live Demo]
+**Companion Streamlit app:** [Live Demo](https://coffee-sleep-eda-cr.streamlit.app/)
 
 ---
 
