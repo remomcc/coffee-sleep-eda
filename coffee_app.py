@@ -17,8 +17,6 @@ from pandas.api.types import CategoricalDtype
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from IPython.display import display, Markdown
-
 from scipy.stats import (shapiro, kruskal, chi2_contingency, spearmanr, levene, ttest_ind, mannwhitneyu)
 
 from pathlib import Path
